@@ -9,7 +9,7 @@ import { useField } from '@unform/core';
 
 import { Container } from './styles';
 
-const Input = ({ name, icon: Icon, ...rest }) => {
+function Input({ name, icon: Icon, ...rest }) {
   const inputRef = useRef(null);
 
   const [isFocused, setIsFocused] = useState(false);
@@ -34,6 +34,8 @@ const Input = ({ name, icon: Icon, ...rest }) => {
       path: 'value',
     });
   }, [fieldName, registerField]);
+
+  console.log('isFilled' + isFilled)
 
   return (
     <Container isFilled={isFilled} isFocused={isFocused}>

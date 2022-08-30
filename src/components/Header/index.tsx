@@ -10,6 +10,10 @@ interface HeaderProps {
 
 function Header({ openModal }: HeaderProps) {
 
+  function teste(value: any) {
+    window.alert('Clicou no botão')
+  }
+
     return (
       <Container>
         <header>
@@ -18,7 +22,7 @@ function Header({ openModal }: HeaderProps) {
             <div>
               <button
                 type="button"
-                onClick={openModal}
+                onClick={teste}
               >
                 <div className="text">Novo Prato</div>
                 <div className="icon">
