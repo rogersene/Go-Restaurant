@@ -5,7 +5,7 @@ import { Form } from './styles';
 import Modal from '../Modal/index';
 import Input from '../Input';
 
-interface newFoodFormProps {
+export interface newFoodFormProps {
   image: string;
   name: string;
   price: string;
