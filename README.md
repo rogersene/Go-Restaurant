@@ -23,14 +23,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-- O projeto ig.news foi desenvolvido durante Bootcamp de React.js da instituição de ensino RocketSeat 
-- Ig.News é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.
-- O blog possui um sistema de compra integrado com o STRIPE, e após o usuário realizar o pagamento, sua inscrição estará ativa e pronta para visualizar o conteúdo completo de todo o blog. Caso o usuário não deseje optar pela assinatura, ele terá acesso limitado ao conteúdo das postagens. E todos os dados necessários para se fazer verificações de assinaturas ou dados dos usuários, estão salvos no banco de dados FaunaDB.
+Projeto tem como objetivo migrar a aplicação de class components para Typescript e Function Components.
 
-- Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de um backend foi integrado dentro do front e seguindo o padrão da JAMStack.
-As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
-## :flower_playing_cards: Projeto
+## 💻 Como Instalar ?
+
+  Para baixar o projeto siga as instruções
+  
+    - git clone https://github.com/rogersene/Test-Shift-Inc.git](https://github.com/rogersene/Go-Restaurant.git)
+    - cd Go-Restaurant
+  
+  Install dependencies and start the project: <br>
+    - yarn install <br>
+    - yarn start (Start front-end projeto) 🥳
+    - yarn server (Start servidor projeto) 🥳
+    
 
 
 
