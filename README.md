@@ -1,13 +1,6 @@
 <h1 align="center">
-   <img alt="IgNews" src="https://github.com/rogersene/IgNews/blob/master/public/images/logo.png">
-    <img alt="proffy-2" src="https://github.com/rogersene/IgNews/blob/master/public/images/avatar.svg" width="10%">
+    <img alt="Home" src="https://github.com/rogersene/Go-Restaurant/blob/master/public/assets/image/printHome.png" width="80%">
 </h1>
-
-<p align="center">
-   <h1>Página HOME</h1>
-  <img alt="Home" src="https://github.com/rogersene/Go-Restaurant/blob/master/public/assets/image/printHome.png" width="80%">
-</p>
-
 
   <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
